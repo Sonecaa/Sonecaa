@@ -17,7 +17,8 @@
 ```php
 
             return;
-      }
+
+      } // end greetings;
 
 ```
 
