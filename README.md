@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+
+<div align=center>
+
+   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sonecaa&theme=dark&hide=contribs,prs&count_private=true)
+
+</div>
+
+
 <!--
 **Sonecaa/Sonecaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
