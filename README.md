@@ -1,9 +1,8 @@
-### Greetings!
-
-
 <div align=center>
+   
+   ### Greetings!
 
-   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sonecaa&theme=dark&show_icons=true&theme=radical))
+   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sonecaa&theme=tokyonight&show_icons=true))
    
    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sonecaa&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
