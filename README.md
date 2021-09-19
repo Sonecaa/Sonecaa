@@ -5,7 +5,6 @@
 ```
 <div class="rainbow" align=center>
    
-            return
 
    ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sonecaa&theme=synthwave&show_icons=true&hide=contribs&include_all_commits=true))
    
@@ -15,8 +14,6 @@
 </div>
 
 ```php
-
-            ;
 
       } // end greetings;
 
