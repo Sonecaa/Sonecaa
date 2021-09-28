@@ -6,8 +6,10 @@ public function greetings() {
 
 <details>
  <summary> 🔌 Connect with me </summary>
+ 
+ <b> <a href="https://www.linkedin.com/in/marceloassissantos"> Linkedin </a>  </b>
 
-      ![<img align="left" alt="LinkedIn" width="80" src="https://github.com/melanieshi0120/melanieshi0120/blob/master/linkedin.ico" />](https://www.linkedin.com/in/marceloassissantos/)
+</div>
 
 </details>
 
